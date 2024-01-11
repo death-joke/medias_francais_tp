@@ -1,0 +1,327 @@
+nom	typeLibelle	valeur	cible
+Claude Perdriel	Personne physique	contrôle	Groupe Perdriel
+Claude Perdriel	Personne physique	participe	Groupe L’Opinion
+Sophia Publications	Personne morale	100	Historia
+Sophia Publications	Personne morale	100	L’histoire
+Groupe Perdriel	Personne morale	100	Challenges
+Groupe Perdriel	Personne morale	100	Sciences & Avenir
+Prisa	Personne morale	20	Le Monde libre
+Xavier Niel	Personne physique	11	Groupe La Provence
+Xavier Niel	Personne physique	26	Le Monde libre
+Xavier Niel	Personne physique	participe	Le Nouveau Magazine littéraire
+Xavier Niel	Personne physique	contrôle	Fonds pour l'indépendance de la presse
+Matthieu Pigasse	Personne physique	78	Combat Solutions
+Combat Solutions	Personne morale	11	HuffPost
+Combat Solutions	Personne morale	51	Le Nouveau Monde
+Combat Solutions	Personne morale	100	Les Inrockuptibles
+Combat Solutions	Personne morale	100	Radio Nova
+Le Nouveau Monde	Personne morale	26	Le Monde libre
+Le Monde libre	Personne morale	99	L’Obs
+Le Monde libre	Personne morale	75	Le Monde SA
+Le Monde SA	Personne morale	100	Courrier international
+Le Monde SA	Personne morale	34	HuffPost
+Le Monde SA	Personne morale	100	La Vie
+Le Monde SA	Personne morale	100	Le Monde
+Le Monde SA	Personne morale	100	Le Monde des religions
+Le Monde SA	Personne morale	51	Le Monde diplomatique
+Le Monde SA	Personne morale	100	M, le magazine du Monde
+Le Monde SA	Personne morale	51	Manière de voir
+Le Monde SA	Personne morale	100	Prier
+Le Monde SA	Personne morale	100	Télérama
+AOL	Personne morale	100	Huffington Post
+Huffington Post	Personne morale	51	HuffPost
+Les Amis du Monde diplomatique	Personne morale	24,5	Le Monde diplomatique
+Les Amis du Monde diplomatique	Personne morale	24,5	Manière de voir
+Association Günter-Holzmann	Personne morale	24,5	Le Monde diplomatique
+Association Günter-Holzmann	Personne morale	24,5	Manière de voir
+Famille Dassault	Personne physique	100	Groupe Dassault
+Groupe Dassault	Personne morale	100	Groupe Figaro
+Groupe Figaro	Personne morale	100	Figaro Magazine
+Groupe Figaro	Personne morale	100	La Lettre de l’Expansion
+Groupe Figaro	Personne morale	100	Le Figaro
+Groupe Figaro	Personne morale	100	Le Particulier
+Bernard Arnault	Personne physique	46,6	LVMH
+Bernard Arnault	Personne physique	27	Lagardère Capital & Management
+LVMH	Personne morale	40	Groupe Perdriel
+LVMH	Personne morale	100	Aujourd’hui en France
+LVMH	Personne morale	100	Groupe Les Échos
+LVMH	Personne morale	participe	Groupe L’Opinion
+LVMH	Personne morale	100	Le Parisien
+LVMH	Personne morale	100	Le Parisien économie
+LVMH	Personne morale	100	Le Parisien Week-End
+Groupe Les Échos	Personne morale	100	Investir
+Groupe Les Échos	Personne morale	100	Investir Magazine
+Groupe Les Échos	Personne morale	100	Les Échos
+Groupe Les Échos	Personne morale	100	Les Échos Week-End
+Groupe Les Échos	Personne morale	100	Radio Classique
+Famille Bettencourt	Personne physique	participe	Groupe L’Opinion
+Nicolas Beytout	Personne physique	participe	Groupe L’Opinion
+Patrick Drahi	Personne physique	61	Altice
+Altice	Personne morale	78	Altice France
+Altice	Personne morale	100	i24 News
+Altice	Personne morale	contrôle	Fonds de Dotation pour une Presse Indépendante
+Altice	Personne morale	contrôle	Fonds de Dotation pour une Presse Indépendante
+Altice France	Personne morale	49	L’Express
+Altice France	Personne morale	100	Libération
+Altice France	Personne morale	100	Altice Média
+Altice Média	Personne morale	100	BFM Business
+Altice Média	Personne morale	100	BFM TV
+Altice Média	Personne morale	100	RMC Story
+Altice Média	Personne morale	100	RMC
+Altice Média	Personne morale	100	RMC Découverte
+Arnaud Lagardère	Personne physique	7,96	Lagardère SA
+Arnaud Lagardère	Personne physique	73	Lagardère Capital & Management
+Qatar Investment Authority	Personne morale	12,83	Lagardère SA
+Lagardère SA	Personne morale	100	Lagardère News
+Lagardère News	Personne morale	100	Europe 1
+Lagardère News	Personne morale	100	Le Journal du dimanche
+Lagardère News	Personne morale	100	Paris Match
+Lagardère News	Personne morale	100	RFM
+Lagardère News	Personne morale	100	Virgin Radio
+Vincent Bolloré	Personne physique	49,77	Financière de l’Odet
+Financière de l’Odet	Personne morale	64,4	Bolloré
+Bolloré	Personne morale	100	CNews matin
+Bolloré	Personne morale	27	Vivendi
+Bolloré	Personne morale	100	France Catholique
+Vivendi	Personne morale	27,6	Lagardère SA
+Vivendi	Personne morale	100	C8
+Vivendi	Personne morale	100	Canal +
+Vivendi	Personne morale	100	CNews
+Vivendi	Personne morale	100	CStar
+Vivendi	Personne morale	100	Prisma Media
+Iskandar Safa	Personne physique	100	Privinvest
+Privinvest	Personne morale	>50	Groupe Valmonde
+Groupe Valmonde	Personne morale	100	Mieux vivre votre argent
+Groupe Valmonde	Personne morale	100	Valeurs actuelles
+Yves de Chaisemartin	Personne physique	9	Marianne
+Daniel Křetínský	Personne physique	50	Czech Media Invest
+Daniel Křetínský	Personne physique	5	Groupe TF1
+Czech Media Invest	Personne morale	100	Elle
+Czech Media Invest	Personne morale	49	Le Nouveau Monde
+Czech Media Invest	Personne morale	91	Marianne
+Czech Media Invest	Personne morale	100	Télé 7 Jours
+Czech Media Invest	Personne morale	100	Franc-Tireur
+François Pinault	Personne physique	57	Artémis
+Artémis	Personne morale	100	Groupe Sebdo-Le Point
+Artémis	Personne morale	100	Point de vue
+Groupe Sebdo-Le Point	Personne morale	100	Le Point
+Famille Mohn	Personne physique	contrôle	Bertelsmann
+Bertelsmann	Personne morale	100	Gruner + Jahr
+Bertelsmann	Personne morale	75	RTL Group
+Gruner + Jahr	Personne morale	0	Prisma Media
+RTL Group	Personne morale	48	Groupe M6
+Prisma Media	Personne morale	100	Capital
+Prisma Media	Personne morale	100	Harvard Business Review
+Prisma Media	Personne morale	100	Management
+Prisma Media	Personne morale	100	Télé-Loisirs
+Prisma Media	Personne morale	100	Gala
+Prisma Media	Personne morale	100	Voici
+Prisma Media	Personne morale	100	Femme Actuelle
+Prisma Media	Personne morale	100	National Geographic
+Prisma Media	Personne morale	100	Geo
+Prisma Media	Personne morale	100	Néon
+Groupe M6	Personne morale	100	6ter
+Groupe M6	Personne morale	100	Fun Radio
+Groupe M6	Personne morale	100	Gulli
+Groupe M6	Personne morale	100	M6
+Groupe M6	Personne morale	100	RTL
+Groupe M6	Personne morale	100	RTL2
+Groupe M6	Personne morale	100	W9
+Georges Ghosn	Personne physique	100	Ghosn Capital
+Ghosn Capital	Personne morale	100	VSD
+Martin et Olivier Bouygues	Personne physique	20	Bouygues
+Bouygues	Personne morale	44	Groupe TF1
+Groupe TF1	Personne morale	100	LCI
+Groupe TF1	Personne morale	100	TF1
+Groupe TF1	Personne morale	100	TF1 Séries Films
+Groupe TF1	Personne morale	100	TFX
+Groupe TF1	Personne morale	100	TMC
+République française	État	100	Arte France
+République française	État	100	France Médias Monde
+République française	État	100	France Télévision
+République française	État	100	La Chaîne parlementaire
+République française	État	100	Public Sénat
+République française	État	100	Radio France
+République française	État	15	Renault
+République fédérale d’Allemagne	État	contrôle	ARD / ZDF
+France Médias Monde	Personne morale	100	France 24
+France Médias Monde	Personne morale	100	Monte Carlo Doualiya
+France Médias Monde	Personne morale	100	Radio France International
+France Médias Monde	Personne morale	13	TV5 Monde
+France Télévision	Personne morale	100	France 2
+France Télévision	Personne morale	100	La Première
+France Télévision	Personne morale	100	France 3
+France Télévision	Personne morale	100	France 4
+France Télévision	Personne morale	100	France 5
+France Télévision	Personne morale	contrôle	France Info
+France Télévision	Personne morale	49	TV5 Monde
+Radio France	Personne morale	100	FIP
+Radio France	Personne morale	100	France Bleu
+Radio France	Personne morale	100	France Culture
+Radio France	Personne morale	contrôle	France Info
+Radio France	Personne morale	100	France Info
+Radio France	Personne morale	100	France Inter
+Radio France	Personne morale	100	France Musique
+Radio France	Personne morale	100	Mouv’
+Arte France	Personne morale	50	Arte
+ARD / ZDF	Personne morale	100	Arte Deutschland TV GmbH
+Arte Deutschland TV GmbH	Personne morale	50	Arte
+Les Augustins de l’Assomption	Personne morale	100	Bayard
+Bayard	Personne morale	100	La Croix
+Bayard	Personne morale	100	Notre temps
+Bayard	Personne morale	100	Pèlerin
+Jean-Paul Baudecroux	Personne physique	79,1	NRJ Group
+NRJ Group	Personne morale	100	Chérie 25
+NRJ Group	Personne morale	100	Chérie FM
+NRJ Group	Personne morale	100	Nostalgie
+NRJ Group	Personne morale	100	NRJ
+NRJ Group	Personne morale	100	NRJ 12
+NRJ Group	Personne morale	100	Rire et Chansons
+Famille Hutin	Personne physique	contrôle	Association pour le soutien des principes de la démocratie humaniste
+Famille Hurbain	Personne physique	contrôle	Groupe Rossel
+Crédit Agricole Nord de France	Personne morale	25	Groupe Rossel La Voix
+Association pour le soutien des principes de la démocratie humaniste	Personne morale	100	Groupe SIPA - Ouest
+Groupe SIPA - Ouest	Personne morale	100	La Presse de la Manche
+Groupe SIPA - Ouest	Personne morale	100	Le Courrier de l’Ouest
+Groupe SIPA - Ouest	Personne morale	100	Le Maine libre
+Groupe SIPA - Ouest	Personne morale	100	Ouest France
+Groupe SIPA - Ouest	Personne morale	100	Presse-Océan
+Groupe SIPA - Ouest	Personne morale	100	Publi Hebdos
+Groupe SIPA - Ouest	Personne morale	40	Sofiouest
+Sofiouest	Personne morale	50	20 Minutes
+Groupe Rossel	Personne morale	73	Groupe Rossel La Voix
+Groupe Rossel	Personne morale	100	Normandie Dimanche
+Groupe Rossel	Personne morale	100	Paris-Normandie
+Groupe Rossel La Voix	Personne morale	49	20 Minutes
+Groupe Rossel La Voix	Personne morale	96	La Voix du Nord SA
+La Voix du Nord SA	Personne morale	100	Courrier picard
+La Voix du Nord SA	Personne morale	100	L’aisne Nouvelle
+La Voix du Nord SA	Personne morale	100	L’Avenir de l’Artois
+La Voix du Nord SA	Personne morale	100	L’Echo de la Lys
+La Voix du Nord SA	Personne morale	100	L’Essor savoyard
+La Voix du Nord SA	Personne morale	100	L’Est-éclair - Libération Champagne
+La Voix du Nord SA	Personne morale	100	L’indicateur
+La Voix du Nord SA	Personne morale	100	L’Union - L’Ardennais
+La Voix du Nord SA	Personne morale	100	La Savoie
+La Voix du Nord SA	Personne morale	100	La Semaine dans le Boulonnais
+La Voix du Nord SA	Personne morale	100	La Tribune républicaine
+La Voix du Nord SA	Personne morale	100	La Voix du Nord
+La Voix du Nord SA	Personne morale	100	Le Journal de Montreuil
+La Voix du Nord SA	Personne morale	100	Le Journal des Flandres
+La Voix du Nord SA	Personne morale	100	Le Messager
+La Voix du Nord SA	Personne morale	100	Le Pays gessien
+La Voix du Nord SA	Personne morale	100	Le Phare Dunkerquois
+La Voix du Nord SA	Personne morale	100	Le Réveil de Berck
+La Voix du Nord SA	Personne morale	100	Les Echos du Touquet
+La Voix du Nord SA	Personne morale	100	Nord éclair
+La Voix du Nord SA	Personne morale	100	Nord Littoral
+Crédit Mutuel	Personne morale	100	Groupe EBRA
+Groupe EBRA	Personne morale	100	DNA
+Groupe EBRA	Personne morale	100	L’Alsace
+Groupe EBRA	Personne morale	100	L’Est républicain
+Groupe EBRA	Personne morale	100	Le Bien public
+Groupe EBRA	Personne morale	100	Le Dauphiné libéré
+Groupe EBRA	Personne morale	50	Le Journal de la Haute-Marne
+Groupe EBRA	Personne morale	100	Le Journal de Saône-et-Loire
+Groupe EBRA	Personne morale	100	Le Progrès
+Groupe EBRA	Personne morale	100	Le Républicain lorrain
+Groupe EBRA	Personne morale	100	Vaucluse Matin
+Groupe EBRA	Personne morale	100	Vosges Matin
+Fondation Varenne	Personne morale	>50	Groupe La Montagne
+Famille Saint-Cricq	Personne physique	15	Groupe NRCO
+Groupe La Montagne	Personne morale	100	Courrier du Loiret
+Groupe La Montagne	Personne morale	16	Groupe NRCO
+Groupe La Montagne	Personne morale	100	Journal de Gien
+Groupe La Montagne	Personne morale	100	L’Echo Charitois
+Groupe La Montagne	Personne morale	100	L’Echo Républicain
+Groupe La Montagne	Personne morale	100	L’Eclaireur du Gâtinais
+Groupe La Montagne	Personne morale	100	L’Yonne Républicaine
+Groupe La Montagne	Personne morale	100	La Liberté
+Groupe La Montagne	Personne morale	100	La Montagne
+Groupe La Montagne	Personne morale	70	La République du Centre
+Groupe La Montagne	Personne morale	100	Le Berry républicain
+Groupe La Montagne	Personne morale	100	Le Journal du centre
+Groupe La Montagne	Personne morale	100	Le Populaire du centre
+Groupe La Montagne	Personne morale	100	Pays Roannais
+Groupe La Montagne	Personne morale	100	Régional de Cosne
+Groupe NRCO	Personne morale	100	Centre Presse
+Groupe NRCO	Personne morale	30	La République du Centre
+Groupe NRCO	Personne morale	100	Nouvelle République du Centre
+Groupe NRCO	Personne morale	40	TV Tours
+Famille Baylet	Personne physique	82,5	Groupe La Dépêche
+Groupe La Dépêche	Personne morale	100	La Dépêche du midi
+Groupe La Dépêche	Personne morale	100	La Gazette du Comminges
+Groupe La Dépêche	Personne morale	100	La Nouvelle République des Pyrénées
+Groupe La Dépêche	Personne morale	100	Le Petit Bleu
+Groupe La Dépêche	Personne morale	100	Le Villefranchois
+Groupe La Dépêche	Personne morale	100	Les Journaux du midi
+Les Journaux du midi	Personne morale	100	Centre Presse Aveyron
+Les Journaux du midi	Personne morale	100	L’Indépendant
+Les Journaux du midi	Personne morale	100	Midi libre
+Famille Lemoine	Personne physique	80	Groupe Sud Ouest
+Groupe Sud Ouest	Personne morale	100	Charente Libre
+Groupe Sud Ouest	Personne morale	100	Dordogne Libre
+Groupe Sud Ouest	Personne morale	100	Haute Gironde
+Groupe Sud Ouest	Personne morale	100	Haute Saintonge
+Groupe Sud Ouest	Personne morale	100	L’Hebdo de Charente-Maritime
+Groupe Sud Ouest	Personne morale	100	La Dépêche du Bassin
+Groupe Sud Ouest	Personne morale	100	Le Journal du Médoc
+Groupe Sud Ouest	Personne morale	100	Le Résistant
+Groupe Sud Ouest	Personne morale	100	Pyrénées Presse
+Groupe Sud Ouest	Personne morale	100	Sud Ouest
+Pyrénées Presse	Personne morale	100	L’Eclair
+Pyrénées Presse	Personne morale	100	La République des Pyrénées
+Édouard Coudurier	Personne physique	contrôle	Groupe Télégramme
+Groupe Télégramme	Personne morale	50	Bretagne magazine
+Groupe Télégramme	Personne morale	100	Le Journal des entreprises
+Groupe Télégramme	Personne morale	100	Le Mensuel de Rennes
+Groupe Télégramme	Personne morale	100	Le Poher
+Groupe Télégramme	Personne morale	100	Le Télégramme
+Groupe Télégramme	Personne morale	100	Sept Jours à Brest
+Groupe Télégramme	Personne morale	100	Tébéo
+Groupe Télégramme	Personne morale	100	Tébésud
+Ayant droit de Bernard Tapie	Personne physique	89	Groupe La Provence
+Publifin	Personne morale	100	Nethys
+Province de Liège	État	54	Publifin
+Groupe La Provence	Personne morale	65	Corse Matin
+Groupe La Provence	Personne morale	100	La Provence
+Nice-Matin	Média	100	Nice-Matin
+Nice-Matin	Média	100	Var-Matin
+Nice-Matin	Média	100	Monaco-Matin
+Nice-Matin	Média	100	France-Antilles
+Nice-Matin	Média	100	France-Guyane
+Nice-Matin	Personne morale	100	Nice-Matin
+Nice-Matin	Personne morale	100	Var-Matin
+Nice-Matin	Personne morale	100	Monaco-Matin
+Nice-Matin	Personne morale	100	France-Antilles
+Nice-Matin	Personne morale	100	France-Guyane
+Jean-Louis Louvel	Personne physique	90	Société Normande d’Information et de Communication
+Société Normande d’Information et de Communication	Personne morale	100	Havre Dimanche
+Société Normande d’Information et de Communication	Personne morale	100	Liberté Dimanche
+Philippe Hersant	Personne physique	100	Éditions Suisses Holding
+Philippe Hersant	Personne physique	100	Groupe Hersant Média
+Éditions Suisses Holding	Personne morale	>50	Groupe Filanosa
+Éditions Suisses Holding	Personne morale	>50	Rhône Média
+Groupe Filanosa	Personne morale	100	L’Express (Neuchâtel)
+Groupe Filanosa	Personne morale	100	L’Impartial (La Chaux-de-Fonds)
+Groupe Filanosa	Personne morale	100	La Côte (Nyon)
+Rhône Média	Personne morale	100	La Gazette de Martigny
+Rhône Média	Personne morale	100	Le Journal de Sierre
+Rhône Média	Personne morale	100	Le Nouvelliste
+Abdoul Cadjee	Personne physique	>50	Le Journal de l’Île de la Réunion
+Lampsane Investissement SA	Personne morale	>50	Slate.fr
+Franck Julien	Personne physique	contrôle	Edi Invest
+Edi Invest	Personne morale	37,4	Hima Groupe
+Jean Christophe Tortora	Personne physique	17	Hima Groupe
+Laurent Alexandre	Personne physique	28	Hima Groupe
+Hima Groupe	Personne morale	contrôle	La Tribune
+Madison Cox	Personne physique	28	Le Monde libre
+Alain Weill	Personne physique	51	L’Express
+Groupe L’Opinion	Personne morale	100	L’Agefi hebdo
+Groupe L’Opinion	Personne morale	100	L’Opinion
+Ken Fisher	Personne physique	participe	Groupe L’Opinion
+Fonds de Dotation pour une Presse Indépendante	Personne morale	contrôle	Libération
+Amber Capital	Personne morale	20	Lagardère SA
+NJJ	Personne morale	100	Nice-Matin
+NJJ	Personne morale	100	Paris-Turf
+Fonds pour l'indépendance de la presse	Personne morale	100	NJJ
